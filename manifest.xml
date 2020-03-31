@@ -16,4 +16,5 @@
   -->
   <depend package="python3" />
   <depend package="cython3" />
+  <depend package="python3-nose" />
 </package>
